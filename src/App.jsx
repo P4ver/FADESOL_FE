@@ -20,7 +20,7 @@ import ListeDemandes from './component/listeDemande';
 import DeliveredItemsPage from './component/livrePage';
 import { disableReactDevTools } from '@fvilers/disable-react-devtools';
 
-// disableReactDevTools()
+disableReactDevTools()
 
 function App() {
   return (
